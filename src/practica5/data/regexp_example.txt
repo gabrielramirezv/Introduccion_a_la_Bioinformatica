@@ -1,0 +1,10 @@
+manzana
+banana
+melon
+peron
+peloton
+accion
+lampara
+carta
+pesado
+papelon

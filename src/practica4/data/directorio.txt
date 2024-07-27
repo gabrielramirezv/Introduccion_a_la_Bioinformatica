@@ -1,0 +1,6 @@
+Monica	35
+Felipe	43
+Hugo	56
+Claudia	21
+Luis	105
+Monica	12

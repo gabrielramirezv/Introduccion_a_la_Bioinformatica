@@ -1,0 +1,4 @@
+leticia	28	12
+juan	25	40
+pablo	23	50
+monica	15	12

@@ -1,0 +1,123 @@
+ENSG00000053747 	 26 	 cell adhesion|signaling receptor binding|regulation of cell adhesion|regulation of cell migration|regulation of embryonic development|endoplasmic reticulum|extracellular region|basement membrane|extracellular matrix structural constituent|extracellular exosome|cell migration|animal organ morphogenesis|tissue development|collagen-containing extracellular matrix|integrin binding|integrin-mediated signaling pathway|cell-cell adhesion|extracellular matrix organization|structural molecule activity|axon guidance|morphogenesis of a polarized epithelium|laminin-5 complex|epidermis development|hemidesmosome assembly|endodermal cell differentiation|membrane|
+ENSG00000101752 	 26 	 zinc ion binding|metal ion binding|protein binding|ubiquitin-protein transferase activity|protein ubiquitination|cytoplasm|membrane|transferase activity|plasma membrane|cytoskeleton|Notch signaling pathway|microtubule organizing center|centrosome|cytosol|endocytosis|ubiquitin-dependent protein catabolic process|blood vessel development|in utero embryonic development|somitogenesis|neural tube formation|heart looping|heart development|negative regulation of neuron differentiation|positive regulation of endocytosis|postsynaptic density|cytoplasmic vesicle|
+ENSG00000101773 	 38 	 nucleus|endonuclease activity|double-strand break repair via homologous recombination|DNA double-strand break processing involved in repair via single-strand annealing|cell cycle|hydrolase activity|DNA binding|cell division|DNA repair|cellular response to DNA damage stimulus|nucleic acid phosphodiester bond hydrolysis|nuclease activity|meiotic cell cycle|intracellular membrane-bounded organelle|nucleoplasm|chromosome|protein binding|negative regulation of nucleic acid-templated transcription|damaged DNA binding|identical protein binding|Y-form DNA binding|double-stranded DNA binding|regulation of signal transduction by p53 class mediator|DNA replication|negative regulation of G0 to G1 transition|regulation of transcription by RNA polymerase II|RNA polymerase II repressing transcription factor binding|transcription corepressor activity|single-stranded DNA binding|transcription repressor complex|site of double-strand break|DNA double-strand break processing|single-stranded DNA endodeoxyribonuclease activity|double-strand/single-strand DNA junction binding|flap-structured DNA binding|G1/S transition of mitotic cell cycle|blastocyst hatching|response to estradiol|
+ENSG00000101782 	 27 	 ATP binding|protein phosphorylation|protein serine/threonine kinase activity|cytoplasm|metal ion binding|nucleotide binding|kinase activity|transferase activity|phosphorylation|protein binding|defense response to virus|immune system process|innate immune response|ribosome biogenesis|cytosol|cellular response to virus|negative regulation of protein-containing complex assembly|positive regulation of interferon-beta production|caspase binding|chromosome segregation|maturation of SSU-rRNA|negative regulation of MDA-5 signaling pathway|negative regulation of I-kappaB kinase/NF-kappaB signaling|positive regulation of innate immune response|cellular response to dsRNA|cellular response to dsDNA|preribosome, small subunit precursor|
+ENSG00000134489 	 21 	 G protein-coupled receptor signaling pathway|integral component of membrane|G protein-coupled receptor activity|inflammatory response|histamine receptor activity|positive regulation of cytosolic calcium ion concentration|regulation of MAPK cascade|membrane|plasma membrane|signal transduction|G protein-coupled serotonin receptor signaling pathway|integral component of plasma membrane|synapse|neurotransmitter receptor activity|chemical synaptic transmission|biological_process|dendrite|G protein-coupled serotonin receptor activity|G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger|G protein-coupled acetylcholine receptor activity|adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway|
+ENSG00000134490 	 8 	 membrane|integral component of membrane|protein binding|transmembrane transport|Golgi apparatus|antiporter activity|transmembrane transporter activity|carbohydrate transport|
+ENSG00000134504 	 13 	 protein binding|protein homooligomerization|nucleus|nucleoplasm|nucleolus|cytosol|intercellular bridge|centriolar satellite|identical protein binding|negative regulation of transcription, DNA-templated|transcription factor binding|transcription corepressor activity|negative regulation of transcription by RNA polymerase II|
+ENSG00000134508 	 7 	 regulation of cell cycle|nucleus|cytoplasm|cell cycle|cell division|protein binding|cytosol|
+ENSG00000141380 	 17 	 transcription coactivator activity|nucleus|positive regulation of nucleic acid-templated transcription|protein binding|nuclear receptor transcription coactivator activity|microtubule cytoskeleton organization|cell morphogenesis|cytoskeleton organization|intracellular signal transduction|response to drug|ephrin receptor signaling pathway|neuronal stem cell population maintenance|cytoplasmic microtubule|SWI/SNF complex|npBAF complex|positive regulation of transcription by RNA polymerase II|positive regulation of transcription, DNA-templated|
+ENSG00000141384 	 18 	 regulation of transcription, DNA-templated|DNA-templated transcription, initiation|transcription factor TFIID complex|protein heterodimerization activity|nucleus|cytoplasm|nucleoplasm|fibrillar center|DNA binding|cell differentiation|transcription, DNA-templated|spermatogenesis|oogenesis|transcription by RNA polymerase II|RNA polymerase II general transcription initiation factor activity|transcription initiation from RNA polymerase II promoter|regulation of signal transduction by p53 class mediator|NF-kappaB binding|
+ENSG00000141446 	 17 	 chromatin|regulation of DNA replication|sister chromatid cohesion|post-translational protein acetylation|nucleus|metal ion binding|transferase activity|cell cycle|zinc ion binding|transferase activity, transferring acyl groups|chromosome|identical protein binding|N-acetyltransferase activity|nucleoplasm|acetyltransferase activity|peptidyl-lysine acetylation|peptide-lysine-N-acetyltransferase activity|
+ENSG00000141447 	 19 	 protein binding|endosome|late endosome|cholesterol metabolic process|vesicle-mediated transport|lipid transport|lipid binding|intracellular membrane-bounded organelle|cytosol|membrane|organelle membrane contact site|extracellular exosome|phospholipid binding|sterol transport|antigen processing and presentation of exogenous peptide antigen via MHC class II|bile acid biosynthetic process|cholesterol binding|sterol transporter activity|sterol binding|
+ENSG00000141448 	 65 	 DNA binding|zinc ion binding|regulation of transcription, DNA-templated|nucleus|DNA-binding transcription factor activity|sequence-specific DNA binding|positive regulation of transcription, DNA-templated|positive regulation of transcription by RNA polymerase II|transcription regulatory region sequence-specific DNA binding|metal ion binding|negative regulation of apoptotic process|nucleoplasm|regulation of transcription by RNA polymerase II|nuclear membrane|protein binding|DNA-binding transcription factor activity, RNA polymerase II-specific|negative regulation of transcription by RNA polymerase II|RNA polymerase II cis-regulatory region sequence-specific DNA binding|nuclear chromatin|sequence-specific double-stranded DNA binding|protein kinase binding|cellular protein metabolic process|male gonad development|transcription factor binding|negative regulation of transcription, DNA-templated|epithelial cell differentiation|cell fate commitment|positive regulation of angiogenesis|positive regulation of cardiac muscle myoblast proliferation|outflow tract septum morphogenesis|cellular response to hypoxia|blood coagulation|positive regulation of cell cycle arrest|response to drug|response to growth factor|negative regulation of transforming growth factor beta2 production|intestinal epithelial cell differentiation|smooth muscle cell differentiation|negative regulation of transforming growth factor beta1 production|RNA polymerase II repressing transcription factor binding|chromatin binding|in utero embryonic development|liver development|type B pancreatic cell differentiation|pancreatic A cell differentiation|phospholipid metabolic process|endodermal cell fate determination|regulation of gene expression|cardiac muscle hypertrophy in response to stress|pancreas development|tube morphogenesis|endodermal cell differentiation|response to estrogen|animal organ formation|cardiac muscle tissue development|positive regulation of cardioblast differentiation|cardiac muscle cell differentiation|positive regulation of cardiac muscle cell proliferation|lung saccule development|club cell differentiation|type II pneumocyte differentiation|cardiac vascular smooth muscle cell differentiation|cellular response to gonadotropin stimulus|cellular response to BMP stimulus|transcription regulator complex|
+ENSG00000141452 	 9 	 protein binding|Mon1-Ccz1 complex|regulation of autophagy|membrane|endosome|lysosomal membrane|autophagy|lysosome|late endosome membrane|
+ENSG00000141458 	 49 	 integral component of membrane|membrane|lipid transporter activity|endoplasmic reticulum|endosome|lysosomal membrane|lipid metabolic process|extracellular region|steroid metabolic process|cholesterol metabolic process|lipid transport|protein binding|lysosome|protein glycosylation|perinuclear region of cytoplasm|viral process|late endosome membrane|integral component of plasma membrane|integral component of lysosomal membrane|extracellular exosome|nuclear envelope|autophagy|cholesterol transport|signaling receptor activity|transmembrane signaling receptor activity|virus receptor activity|sterol transporter activity|cholesterol binding|endocytosis|lysosomal transport|adult walking behavior|bile acid metabolic process|negative regulation of macroautophagy|membrane raft organization|intracellular cholesterol transport|cholesterol efflux|low-density lipoprotein particle clearance|response to drug|cholesterol homeostasis|response to cadmium ion|viral entry into host cell|negative regulation of cell death|cellular response to steroid hormone stimulus|cellular response to low-density lipoprotein particle stimulus|establishment of protein localization to membrane|Golgi apparatus|plasma membrane|vesicle|membrane raft|
+ENSG00000154040 	 20 	 calcium ion binding|sperm capacitation|cytoplasm|nucleus|metal ion binding|nucleoplasm|cytosol|cytoskeleton|cilium|motile cilium|cell projection|protein binding|extracellular region|SH3 domain binding|epithelial cilium movement involved in extracellular fluid movement|sperm fibrous sheath|enzyme binding|protein domain specific binding|sperm principal piece|sperm end piece|
+ENSG00000154059 	 32 	 protein binding|cytoplasm|actin binding|regulation of translation|cell differentiation|nervous system development|negative regulation of protein kinase activity|ribosome binding|negative regulation of transcription by RNA polymerase II|molecular_function|biological_process|cellular_component|negative regulation of protein phosphorylation|negative regulation of protein-containing complex assembly|cellular response to hydrogen peroxide|cellular response to glucose starvation|polysome|negative regulation of cell death|protein kinase inhibitor activity|cellular response to amino acid starvation|negative regulation of transcription from RNA polymerase II promoter in response to stress|positive regulation of neuron differentiation|cellular response to acidic pH|neuron projection extension|cellular response to leucine starvation|negative regulation of protein autophosphorylation|cellular response to UV-C|regulation of eIF2 alpha phosphorylation by amino acid starvation|positive regulation of translational initiation in response to starvation|polysome binding|cellular response to benomyl|regulation of translational initiation|
+ENSG00000154065 	 3 	 protein binding|membrane|integral component of membrane|
+ENSG00000154080 	 15 	 integral component of membrane|sulfotransferase activity|carbohydrate biosynthetic process|membrane|transferase activity|Golgi apparatus|extracellular region|Golgi membrane|carbohydrate metabolic process|hormone biosynthetic process|sulfur compound metabolic process|glycosaminoglycan metabolic process|N-acetylgalactosamine 4-O-sulfotransferase activity|chondroitin sulfate biosynthetic process|proteoglycan biosynthetic process|
+ENSG00000154611 	 45 	 endopeptidase activity|proteolysis involved in cellular protein catabolic process|proteasome core complex|ubiquitin-dependent protein catabolic process|proteasome core complex, alpha-subunit complex|threonine-type endopeptidase activity|nucleus|cell differentiation|proteasome complex|meiotic cell cycle|spermatogenesis|cytoplasm|Fc-epsilon receptor signaling pathway|T cell receptor signaling pathway|cytosol|extracellular exosome|MAPK cascade|protein polyubiquitination|stimulatory C-type lectin receptor signaling pathway|antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent|regulation of cellular amino acid metabolic process|proteasomal protein catabolic process|proteasomal ubiquitin-independent protein catabolic process|negative regulation of G2/M transition of mitotic cell cycle|protein deubiquitination|anaphase-promoting complex-dependent catabolic process|SCF-dependent proteasomal ubiquitin-dependent protein catabolic process|tumor necrosis factor-mediated signaling pathway|NIK/NF-kappaB signaling|proteasome-mediated ubiquitin-dependent protein catabolic process|regulation of mRNA stability|post-translational protein modification|transmembrane transport|Wnt signaling pathway, planar cell polarity pathway|regulation of transcription from RNA polymerase II promoter in response to hypoxia|interleukin-1-mediated signaling pathway|negative regulation of canonical Wnt signaling pathway|positive regulation of canonical Wnt signaling pathway|regulation of mitotic cell cycle phase transition|regulation of hematopoietic stem cell differentiation|spermatoproteasome complex|regulation of meiosis I|peptidase activity|proteolysis|hydrolase activity|
+ENSG00000158201 	 21 	 membrane|integral component of membrane|hydrolase activity|lipid metabolic process|phospholipase A1 activity|phosphatidylserine 1-acylhydrolase activity|1-acyl-2-lysophosphatidylserine acylhydrolase activity|phospholipase A2 activity|phospholipase A2 activity (consuming 1,2-dipalmitoylphosphatidylcholine)|phospholipase A2 activity consuming 1,2-dioleoylphosphatidylethanolamine)|plasma membrane|carboxylic ester hydrolase activity|cellular_component|phosphatidylcholine metabolic process|acylglycerol lipase activity|acetylesterase activity|short-chain carboxylesterase activity|cellular lipid metabolic process|medium-chain fatty acid biosynthetic process|medium-chain fatty acid catabolic process|phosphatidylcholine biosynthetic process|
+ENSG00000167088 	 31 	 RNA processing|nucleus|spliceosomal snRNP assembly|mRNA processing|RNA splicing|spliceosomal complex|RNA binding|cytoplasm|cytosol|protein binding|mRNA splicing, via spliceosome|catalytic step 2 spliceosome|U1 snRNP|nucleoplasm|U4/U6 x U5 tri-snRNP complex|U4 snRNP|U5 snRNP|methylosome|spliceosomal complex assembly|import into nucleus|SMN-Sm protein complex|U2-type precatalytic spliceosome|U2-type catalytic step 2 spliceosome|U2 snRNP|U12-type spliceosomal complex|precatalytic spliceosome|small nuclear ribonucleoprotein complex|commitment complex|pICln-Sm protein complex|spliceosomal tri-snRNP complex|U1 snRNP binding|
+ENSG00000168234 	 3 	 protein binding|cilium assembly|otolith morphogenesis|
+ENSG00000171885 	 26 	 membrane|transmembrane transport|channel activity|cytoplasm|integral component of membrane|plasma membrane|endosome|sarcolemma|cell projection|endosome membrane|protein binding|basolateral plasma membrane|extracellular region|identical protein binding|integral component of plasma membrane|cellular response to interferon-gamma|water channel activity|water transport|protein homotetramerization|external side of plasma membrane|renal water homeostasis|water homeostasis|cellular water homeostasis|multicellular organismal water homeostasis|cerebrospinal fluid circulation|astrocyte end-foot|
+ENSG00000188985 	 0 	
+ENSG00000198795 	 13 	 nucleic acid binding|nucleus|metal ion binding|DNA binding|multicellular organism development|cell differentiation|protein binding|positive regulation of transcription by RNA polymerase II|regulation of transcription by RNA polymerase II|RNA polymerase II cis-regulatory region sequence-specific DNA binding|DNA-binding transcription activator activity, RNA polymerase II-specific|protein domain specific binding|neuron fate commitment|
+ENSG00000199357 	 0 	
+ENSG00000199366 	 0 	
+ENSG00000199636 	 0 	
+ENSG00000199874 	 0 	
+ENSG00000199977 	 0 	
+ENSG00000200750 	 0 	
+ENSG00000201852 	 0 	
+ENSG00000206766 	 0 	
+ENSG00000206827 	 0 	
+ENSG00000206863 	 0 	
+ENSG00000207160 	 0 	
+ENSG00000212051 	 0 	
+ENSG00000212710 	 9 	 membrane|integral component of membrane|biological_process|endoplasmic reticulum membrane|endoplasmic reticulum to Golgi vesicle-mediated transport|protein secretion|vesicle cargo loading|endoplasmic reticulum exit site|cellular_component|
+ENSG00000221363 	 0 	
+ENSG00000221493 	 0 	
+ENSG00000222520 	 0 	
+ENSG00000223023 	 0 	
+ENSG00000229248 	 0 	
+ENSG00000239490 	 0 	
+ENSG00000242182 	 0 	
+ENSG00000242216 	 0 	
+ENSG00000242971 	 0 	
+ENSG00000243303 	 0 	
+ENSG00000243925 	 0 	
+ENSG00000244329 	 0 	
+ENSG00000252325 	 0 	
+ENSG00000252677 	 0 	
+ENSG00000260372 	 0 	
+ENSG00000263382 	 0 	
+ENSG00000263405 	 0 	
+ENSG00000263588 	 0 	
+ENSG00000263611 	 0 	
+ENSG00000263677 	 0 	
+ENSG00000263829 	 0 	
+ENSG00000263846 	 0 	
+ENSG00000263862 	 0 	
+ENSG00000264012 	 0 	
+ENSG00000264149 	 0 	
+ENSG00000264188 	 0 	
+ENSG00000264193 	 0 	
+ENSG00000264289 	 0 	
+ENSG00000264345 	 0 	
+ENSG00000264365 	 0 	
+ENSG00000264434 	 0 	
+ENSG00000264695 	 0 	
+ENSG00000264745 	 0 	
+ENSG00000264790 	 0 	
+ENSG00000264825 	 0 	
+ENSG00000264911 	 0 	
+ENSG00000264924 	 0 	
+ENSG00000265094 	 0 	
+ENSG00000265097 	 0 	
+ENSG00000265142 	 0 	
+ENSG00000265204 	 0 	
+ENSG00000265369 	 0 	
+ENSG00000265374 	 0 	
+ENSG00000265485 	 0 	
+ENSG00000265552 	 0 	
+ENSG00000265656 	 0 	
+ENSG00000265750 	 0 	
+ENSG00000265752 	 0 	
+ENSG00000265758 	 0 	
+ENSG00000265939 	 0 	
+ENSG00000265943 	 0 	
+ENSG00000266010 	 0 	
+ENSG00000266181 	 0 	
+ENSG00000266184 	 0 	
+ENSG00000266227 	 0 	
+ENSG00000266237 	 0 	
+ENSG00000266283 	 0 	
+ENSG00000266489 	 0 	
+ENSG00000266495 	 0 	
+ENSG00000266520 	 0 	
+ENSG00000266549 	 0 	
+ENSG00000266573 	 0 	
+ENSG00000266809 	 0 	
+ENSG00000266850 	 0 	
+ENSG00000267301 	 0 	
+ENSG00000267752 	 0 	
+ENSG00000270855 	 0 	
+ENSG00000273232 	 0 	
+ENSG00000273321 	 0 	
+ENSG00000273348 	 0 	
+ENSG00000273524 	 0 	
+ENSG00000275805 	 0 	
+ENSG00000275900 	 0 	
+ENSG00000276221 	 0 	
+ENSG00000277534 	 0 	
+ENSG00000279332 	 0 	
+ENSG00000279439 	 0 	
+ENSG00000283084 	 0 	
+ENSG00000283927 	 28 	 extracellular space|mRNA binding involved in posttranscriptional gene silencing|gene silencing by miRNA|negative regulation of cell migration|positive regulation of gene expression|negative regulation of vascular associated smooth muscle cell proliferation|negative regulation of cell population proliferation|negative regulation of cardiac muscle cell apoptotic process|negative regulation of myoblast proliferation|negative regulation of ERK1 and ERK2 cascade|negative regulation of G1/S transition of mitotic cell cycle|positive regulation of cell fate commitment|negative regulation of cardiac muscle hypertrophy|positive regulation of myotube differentiation|regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion|negative regulation of delayed rectifier potassium channel activity|negative regulation of membrane repolarization during cardiac muscle cell action potential|negative regulation of low-density lipoprotein particle clearance|negative regulation of hydrogen peroxide-induced cell death|negative regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity|regulation of ventricular cardiac muscle cell membrane repolarization|cellular response to cytokine stimulus|regulation of adenylate cyclase-inhibiting adrenergic receptor signaling pathway|negative regulation of adenylate cyclase-activating adrenergic receptor signaling pathway involved in heart process|regulation of membrane repolarization during ventricular cardiac muscle cell action potential|positive regulation of cardiocyte differentiation|negative regulation of epidermal growth factor receptor signaling pathway involved in heart process|negative regulation of cAMP-dependent protein kinase activity|
+ENSG00000284331 	 1 	 extracellular vesicle|
+ENSG00000284453 	 38 	 extracellular space|mRNA binding involved in posttranscriptional gene silencing|gene silencing by miRNA|miRNA mediated inhibition of translation|negative regulation of cardiac muscle cell proliferation|negative regulation of vascular associated smooth muscle cell proliferation|negative regulation of endothelial cell differentiation|positive regulation of cardiac muscle cell differentiation|negative regulation of myoblast proliferation|negative regulation of fibroblast growth factor receptor signaling pathway|negative regulation of DNA-binding transcription factor activity|positive regulation of protein phosphorylation|positive regulation of cell fate commitment|positive regulation of heart rate|negative regulation of cardiac muscle hypertrophy|positive regulation of myotube differentiation|regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum|regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion|negative regulation of insulin-like growth factor receptor signaling pathway|positive regulation of sarcomere organization|regulation of ventricular cardiac muscle cell membrane depolarization|ventricular septum morphogenesis|positive regulation of cardiac muscle contraction|cell migration involved in coronary vasculogenesis|positive regulation of ryanodine-sensitive calcium-release channel activity by adrenergic receptor signaling pathway involved in positive regulation of cardiac muscle contraction|negative regulation of canonical Wnt signaling pathway|reversible differentiation|negative regulation of delayed rectifier potassium channel activity|positive regulation of sprouting angiogenesis|positive regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization|negative regulation of cardiac conduction|positive regulation of calcium ion transmembrane transport via high voltage-gated calcium channel|negative regulation of membrane repolarization during cardiac muscle cell action potential|positive regulation of vascular associated smooth muscle cell apoptotic process|positive regulation of mesoderm formation|negative regulation of calcium ion export across plasma membrane|positive regulation of cardiac vascular smooth muscle cell differentiation|positive regulation of skeletal muscle cell differentiation|
+ENSG00000285595 	 0 	
+ENSG00000286465 	 0 	
+ENSG00000287611 	 0 	

@@ -1,0 +1,220 @@
+AccB 	 repressor 	
+AcrR 	 repressor 	 Apo
+Ada 	 activator repressor 	 Apo Holo
+AdiY 	 activator 	
+AgaR 	 repressor 	
+AidB 	 repressor 	
+AlaS 	 repressor 	 Holo
+AllR 	 repressor 	 Apo Holo
+AllS 	 activator 	 Holo
+AlpA 	 	
+AlsR 	 repressor 	 Apo
+AppY 	 activator 	
+AraC 	 activator repressor 	 Apo Holo
+ArcA 	 activator repressor 	 Holo
+ArgP 	 activator repressor 	 Apo Holo
+ArgR 	 activator repressor 	 Holo
+ArsR 	 repressor 	 Apo
+AscG 	 repressor 	
+AsnC 	 activator repressor 	 Apo
+AtoC 	 activator 	 Holo
+BaeR 	 activator 	 Holo
+BasR 	 activator repressor 	 Holo
+BetI 	 repressor 	 Apo
+BirA 	 repressor 	 Holo
+BluR 	 repressor 	
+BolA 	 activator repressor 	
+BtsR 	 activator 	 Holo
+CadC 	 activator 	
+CaiF 	 activator 	 Holo
+Cbl 	 activator 	 Apo
+CdaR 	 activator 	
+CecR 	 repressor 	
+ChbR 	 activator repressor 	 Apo Holo
+ComR 	 repressor 	 Apo
+CpxR 	 activator repressor 	 Holo
+Cra 	 activator repressor 	 Apo
+CreB 	 activator repressor 	 Holo
+CRP 	 activator repressor unknown 	 Holo
+CRP-Sxy 	 activator 	
+CsgD 	 activator repressor 	
+CspA 	 activator 	
+CsqR 	 repressor 	 Apo
+CueR 	 activator repressor 	 Holo
+CusR 	 activator 	 Holo
+CynR 	 activator repressor 	 Apo Holo
+CysB 	 activator repressor 	 Holo
+CytR 	 repressor 	 Apo
+Dan 	 activator 	 Holo
+DcuR 	 activator 	 Holo
+DecR 	 	
+DeoR 	 repressor 	 Apo
+DgoR 	 repressor 	 Apo
+DhaR 	 activator repressor 	 Apo
+DicA 	 repressor 	
+DinJ-YafQ 	 repressor 	
+DnaA 	 activator repressor 	 Holo
+DpiA 	 activator repressor 	 Holo
+DsdC 	 activator repressor 	 Holo
+EbgR 	 repressor 	
+EnvR 	 repressor 	
+EnvY 	 activator 	
+EvgA 	 activator 	 Holo
+ExuR 	 repressor 	
+FabR 	 repressor 	
+FadR 	 activator repressor 	 Apo Holo
+FeaR 	 activator 	
+FhlA 	 activator 	 Holo
+Fis 	 activator repressor unknown 	
+FlhDC 	 activator repressor 	
+FliZ 	 repressor 	
+FNR 	 activator repressor 	 Holo
+FrmR 	 	 Apo
+FucR 	 activator 	 Holo
+Fur 	 activator repressor 	 Holo
+GadE 	 activator 	
+GadE-RcsB 	 activator 	
+GadW 	 activator repressor 	
+GadX 	 activator repressor 	
+GalR 	 activator repressor 	 Apo Holo
+GalS 	 activator repressor 	 Apo Holo
+GatR 	 repressor 	
+GcvA 	 activator repressor 	 Apo
+GlaR 	 repressor 	 Apo
+GlcC 	 activator repressor 	 Holo
+GlpR 	 repressor 	 Apo
+GlrR 	 activator 	 Holo
+GntR 	 repressor 	 Apo
+GutM 	 activator 	
+HcaR 	 activator repressor 	 Apo Holo
+HdfR 	 activator repressor 	
+HicB 	 repressor 	
+HigA 	 repressor 	
+HigBA 	 repressor 	
+HipAB 	 repressor 	
+HipB 	 repressor 	
+H-NS 	 activator repressor 	
+HprR 	 activator repressor 	 Holo
+HU 	 activator repressor 	
+HyfR 	 activator 	
+HypT 	 activator repressor 	
+IclR 	 repressor 	 Holo
+IdnR 	 activator repressor 	 Apo Holo
+IHF 	 activator repressor unknown 	
+IlvY 	 activator repressor 	 Apo Holo
+IscR 	 activator repressor 	 Apo Holo
+KdgR 	 repressor 	
+KdpE 	 activator 	 Holo
+LacI 	 repressor 	 Apo
+LeuO 	 activator repressor 	
+LexA 	 repressor 	
+LldR 	 activator repressor 	 Apo Holo
+LrhA 	 activator repressor 	
+Lrp 	 activator repressor 	 Apo Holo
+LsrR 	 repressor 	 Apo
+LysR 	 activator repressor 	
+MalI 	 repressor 	
+MalT 	 activator 	 Holo
+MarA 	 activator repressor 	
+MarR 	 repressor 	 Apo
+MatA 	 activator repressor 	
+MazE 	 repressor 	
+MazE-MazF 	 repressor 	
+McbR 	 activator repressor 	
+MelR 	 activator repressor 	 Apo Holo
+MetJ 	 repressor 	 Holo
+MetR 	 activator repressor 	 Apo Holo
+MhpR 	 activator 	 Holo
+Mlc 	 repressor 	 Apo
+MlrA 	 activator 	
+MngR 	 repressor 	
+MntR 	 activator repressor 	 Holo
+ModE 	 activator repressor 	 Holo
+MprA 	 repressor 	 Apo
+MqsA 	 repressor 	
+MraZ 	 repressor 	
+MurR 	 activator repressor 	 Apo
+Nac 	 activator repressor unknown 	
+NadR 	 repressor 	
+NagC 	 activator repressor unknown 	 Apo
+NanR 	 activator repressor 	 Apo
+NarL 	 activator repressor 	 Holo
+NarP 	 activator repressor 	 Holo
+NemR 	 repressor 	 Apo
+NfeR 	 repressor 	 Apo
+NhaR 	 activator 	 Holo
+NikR 	 repressor 	 Holo
+NimR 	 repressor 	
+NorR 	 activator repressor 	
+NrdR 	 repressor 	 Holo
+NsrR 	 repressor 	 Apo Holo
+NtrC 	 activator repressor 	 Holo
+OmpR 	 activator repressor 	 Apo Holo
+OxyR 	 activator repressor 	
+PaaX 	 repressor 	 Apo
+PdeL 	 activator 	
+PdhR 	 activator repressor 	 Apo
+PepA 	 repressor 	
+PgrR 	 repressor 	
+PhoB 	 activator repressor 	 Holo
+PhoP 	 activator repressor 	 Holo
+PrpR 	 activator repressor 	 Holo
+PspF 	 activator repressor 	
+PurR 	 repressor 	 Holo
+PutA 	 repressor 	
+PuuR 	 repressor 	 Apo
+PyrR 	 activator 	 Holo
+QseB 	 activator repressor 	 Holo
+RacR 	 	
+RbsR 	 activator repressor 	 Apo Holo
+RcdA 	 activator repressor 	
+RclR 	 activator 	
+RcnR 	 repressor 	 Apo
+RcsAB 	 activator repressor 	
+RcsB 	 activator repressor 	 Holo
+RcsB-BglJ 	 activator 	
+RelB 	 repressor 	
+RelB-RelE 	 repressor 	
+RhaR 	 activator 	 Holo
+RhaS 	 activator unknown 	 Apo Holo
+Rob 	 activator repressor 	
+RstA 	 activator repressor 	 Holo
+RtcR 	 activator 	
+RutR 	 activator repressor 	 Apo
+SdiA 	 activator repressor 	
+SgrR 	 activator repressor 	
+SlyA 	 activator repressor 	
+SoxR 	 activator repressor 	 Holo
+SoxS 	 activator repressor 	
+SrlR 	 repressor 	
+StpA 	 repressor 	
+SutR 	 activator repressor 	
+TdcA 	 activator 	
+TdcR 	 activator 	
+TorR 	 activator repressor 	 Holo
+TreR 	 repressor 	 Apo
+TrpR 	 repressor 	 Holo
+TyrR 	 activator repressor 	 Apo Holo
+UhpA 	 activator 	 Holo
+UidR 	 repressor 	
+UlaR 	 repressor 	 Apo
+UvrY 	 activator 	 Holo
+UxuR 	 repressor 	 Apo
+XapR 	 activator 	 Holo
+XylR 	 activator repressor 	 Holo
+XynR 	 	 Holo
+YcjW 	 	
+YdeO 	 activator repressor 	
+YdfH 	 	
+YebK 	 	 Apo
+YefM 	 repressor 	
+YefM-YoeB 	 repressor 	
+YeiL 	 activator 	
+YgiV 	 	
+YhaJ 	 activator 	
+YiaJ 	 repressor 	
+YjjQ 	 repressor 	
+YqhC 	 activator 	
+ZntR 	 activator 	 Holo
+ZraR 	 activator 	 Holo
+Zur 	 repressor 	 Holo

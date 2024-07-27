@@ -1,0 +1,3 @@
+      2 ID=cds-NP_417367.1;product=peptide chain release factor RF2;protein_id=NP_417367.1
+      2 ID=cds-YP_009518751.1;product=DNA polymerase III subunit gamma;protein_id=YP_009518751.1
+      2 ID=cds-YP_009518752.1;product=soluble Cu(+) chaperone;protein_id=YP_009518752.1

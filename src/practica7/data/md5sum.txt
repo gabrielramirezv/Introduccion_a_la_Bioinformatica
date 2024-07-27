@@ -1,0 +1,2 @@
+df7ea47f57ed38179b0e6f604fd2cd32  fnr_gene.fa
+f10e03202f49e359ed05d240873823aa  fnr_protein.faa
